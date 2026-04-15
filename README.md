@@ -2,8 +2,8 @@
 
 Bring the serene beauty of a **Realistic Vesak Lantern** to any website with just one line of code. Created to celebrate the spirit of the Vesak festival online.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/ST-Imagix/vesak-glow-js)
-[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-success?style=for-the-badge&logo=google-chrome)](https://st-imagix.github.io/vesak-glow-js/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/ST-Imagix/vesak-glow-js)
 
 ## ✨ Features
 - **Ultra-Realistic Design:** 3D-effect SVG lantern.
@@ -18,12 +18,11 @@ You can easily add this to any HTML, WordPress, or custom website. Simply copy a
 
 ```html
 <script src="[https://cdn.jsdelivr.net/gh/ST-Imagix/vesak-glow-js@main/vesak-lantern.js](https://cdn.jsdelivr.net/gh/ST-Imagix/vesak-glow-js@main/vesak-lantern.js)"></script>
-```
 
+```
 👨‍💻 Developer
 Developed by Samitha Tharanga Wijesinghe, CEO of ST-Imagix.
 
 Connect on GitHub: ST-Imagix
 
 © 2026 ST-Imagix. Open Source for the community.
-
